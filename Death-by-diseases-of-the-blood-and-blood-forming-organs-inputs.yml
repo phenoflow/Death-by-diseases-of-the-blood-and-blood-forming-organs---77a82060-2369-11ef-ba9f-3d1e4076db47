@@ -1,0 +1,144 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/death-by-diseases-of-the-blood-and-blood-forming-organs-immunodef---secondary.py
+inputModule3:
+  class: File
+  path: python/posthaemorrhagic-death-by-diseases-of-the-blood-and-blood-forming-organs---secondary.py
+inputModule4:
+  class: File
+  path: python/selective-death-by-diseases-of-the-blood-and-blood-forming-organs---secondary.py
+inputModule5:
+  class: File
+  path: python/chronic-death-by-diseases-of-the-blood-and-blood-forming-organs---secondary.py
+inputModule6:
+  class: File
+  path: python/death-by-diseases-of-the-blood-and-blood-forming-organs-defibrination---secondary.py
+inputModule7:
+  class: File
+  path: python/death-by-diseases-of-the-blood-and-blood-forming-organs-histiocytosis---secondary.py
+inputModule8:
+  class: File
+  path: python/death-by-diseases-of-the-blood-and-blood-forming-organs-nonautoimmune---secondary.py
+inputModule9:
+  class: File
+  path: python/death-by-diseases-of-the-blood-and-blood-forming-organs-specified---secondary.py
+inputModule10:
+  class: File
+  path: python/death-by-diseases-of-the-blood-and-blood-forming-organs-hypergammaglobulinaemia---secondary.py
+inputModule11:
+  class: File
+  path: python/death-by-diseases-of-the-blood-and-blood-forming-organs-spleen---secondary.py
+inputModule12:
+  class: File
+  path: python/death-by-diseases-of-the-blood-and-blood-forming-organs-druginduced---secondary.py
+inputModule13:
+  class: File
+  path: python/death-by-diseases-of-the-blood-and-blood-forming-organs-immunodeficiency---secondary.py
+inputModule14:
+  class: File
+  path: python/blood---secondary.py
+inputModule15:
+  class: File
+  path: python/external-death-by-diseases-of-the-blood-and-blood-forming-organs---secondary.py
+inputModule16:
+  class: File
+  path: python/death-by-diseases-of-the-blood-and-blood-forming-organs-defect---secondary.py
+inputModule17:
+  class: File
+  path: python/hereditary-death-by-diseases-of-the-blood-and-blood-forming-organs---secondary.py
+inputModule18:
+  class: File
+  path: python/death-by-diseases-of-the-blood-and-blood-forming-organs-tcell---secondary.py
+inputModule19:
+  class: File
+  path: python/death-by-diseases-of-the-blood-and-blood-forming-organs-thalassaemia---secondary.py
+inputModule20:
+  class: File
+  path: python/aplastic-death-by-diseases-of-the-blood-and-blood-forming-organs---secondary.py
+inputModule21:
+  class: File
+  path: python/death-by-diseases-of-the-blood-and-blood-forming-organs-haemoglobinuria---secondary.py
+inputModule22:
+  class: File
+  path: python/death-by-diseases-of-the-blood-and-blood-forming-organs-lymph---secondary.py
+inputModule23:
+  class: File
+  path: python/death-by-diseases-of-the-blood-and-blood-forming-organs-class---secondary.py
+inputModule24:
+  class: File
+  path: python/death-by-diseases-of-the-blood-and-bloodforming-organs---secondary.py
+inputModule25:
+  class: File
+  path: python/death-by-diseases-of-the-blood-and-blood-forming-organs-vitamin---secondary.py
+inputModule26:
+  class: File
+  path: python/sideroblastic-death-by-diseases-of-the-blood-and-blood-forming-organs---secondary.py
+inputModule27:
+  class: File
+  path: python/dietary-death-by-diseases-of-the-blood-and-blood-forming-organs---secondary.py
+inputModule28:
+  class: File
+  path: python/death-by-diseases-of-the-blood-and-blood-forming-organs-methaemoglobinaemia---secondary.py
+inputModule29:
+  class: File
+  path: python/death-by-diseases-of-the-blood-and-blood-forming-organs-sarcoidosis---secondary.py
+inputModule30:
+  class: File
+  path: python/death-by-diseases-of-the-blood-and-blood-forming-organs-enzyme---secondary.py
+inputModule31:
+  class: File
+  path: python/nutritional-death-by-diseases-of-the-blood-and-blood-forming-organs---secondary.py
+inputModule32:
+  class: File
+  path: python/death-by-diseases-of-the-blood-and-blood-forming-organs-crisis---secondary.py
+inputModule33:
+  class: File
+  path: python/death-by-diseases-of-the-blood-and-blood-forming-organs-number---secondary.py
+inputModule34:
+  class: File
+  path: python/death-by-diseases-of-the-blood-and-blood-forming-organs-agranulocytosis---secondary.py
+inputModule35:
+  class: File
+  path: python/death-by-diseases-of-the-blood-and-blood-forming-organs-folate---secondary.py
+inputModule36:
+  class: File
+  path: python/idiopathic-death-by-diseases-of-the-blood-and-blood-forming-organs---secondary.py
+inputModule37:
+  class: File
+  path: python/death-by-diseases-of-the-blood-and-blood-forming-organs-neutrophil---secondary.py
+inputModule38:
+  class: File
+  path: python/death-by-diseases-of-the-blood-and-blood-forming-organs-factor---secondary.py
+inputModule39:
+  class: File
+  path: python/congenital-death-by-diseases-of-the-blood-and-blood-forming-organs---secondary.py
+inputModule40:
+  class: File
+  path: python/death-by-diseases-of-the-blood-and-blood-forming-organs-sicklecell---secondary.py
+inputModule41:
+  class: File
+  path: python/secondary-death-by-diseases-of-the-blood-and-blood-forming-organs---secondary.py
+inputModule42:
+  class: File
+  path: python/severe-death-by-diseases-of-the-blood-and-blood-forming-organs---secondary.py
+inputModule43:
+  class: File
+  path: python/death-by-diseases-of-the-blood-and-blood-forming-organs-metabolism---secondary.py
+inputModule44:
+  class: File
+  path: python/death-by-diseases-of-the-blood-and-blood-forming-organs-acquired---secondary.py
+inputModule45:
+  class: File
+  path: python/death-by-diseases-of-the-blood-and-blood-forming-organs-trait---secondary.py
+inputModule46:
+  class: File
+  path: python/death-by-diseases-of-the-blood-and-blood-forming-organs-anaemia---secondary.py
+inputModule47:
+  class: File
+  path: python/death-by-diseases-of-the-blood-and-blood-forming-organs-dissem---secondary.py
+inputModule48:
+  class: File
+  path: python/output-cases.py
